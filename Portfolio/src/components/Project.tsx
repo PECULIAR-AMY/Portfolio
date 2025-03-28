@@ -29,6 +29,7 @@ const projectData: Project[] = [
     title: 'Recipe finder App',
     description: 'An app for finding recipes',
     technologies: ['html', 'css', 'Typescript', 'javascript', 'Tailwind css']
+    
   }
 ];
 

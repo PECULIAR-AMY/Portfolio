@@ -34,8 +34,15 @@ const Heroine: React.FC = () => {
         <h3 className='bg-gradient-to-r from-pink-400 to-blue-500 bg-clip-text text-2xl text-transparent opacity-80 transition-all duration-300 hover:opacity-100 md:text-3xl'>
           Frontend Developer
         </h3>
-        <p className='text-pretty text-sm text-gray-400 transition-all duration-300 hover:text-gray-300 md:text-base'>
-          Hi, I'm a frontend developer skilled in React, TypeScript, Node.js, and Tailwind, focused on building clean, scalable applications from frontend designs to seamless database integration.
+        <p className='text-pretty text-sm text-gray-400 transition-all duration-300 hover:text-gray-300 md:text-base'> 
+       I'm a highly skilled
+       frontend developer 
+       specializing in React, TypeScript, Node.js, 
+       and Tailwind for styling. I build clean, scalable, and high-performance 
+       applications, transforming intricate designs into seamless, 
+       user-centric experiences. With a keen focus on efficiency and maintainability, 
+       I bridge the gap between design and functionality, ensuring smooth database 
+       integration and a flawless interface." 
         </p>
       </motion.div>
     </div>
