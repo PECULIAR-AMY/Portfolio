@@ -34,6 +34,9 @@ const NavBar: React.FC = () => {
         <a href='#contact' className='cursor-pointer opacity-70 transition-all duration-300 hover:opacity-100'>
           <li>Contact</li>
         </a>
+        <a href='#contact' className='cursor-pointer opacity-70 transition-all duration-300 hover:opacity-100'>
+          <li>Beyond Tech</li>
+        </a>
       </ul>
 
       {/* Desktop Social Links - Hidden on sm and md screens */}
