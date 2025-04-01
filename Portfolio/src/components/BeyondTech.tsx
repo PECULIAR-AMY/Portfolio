@@ -10,14 +10,11 @@ const BeyondTech: React.FC = () => {
       transition={{ duration: 0.5 }}
     >
       <p className='text-pretty text-sm text-gray-400 transition-all duration-300 hover:text-gray-300 md:text-base'> 
-        I'm a highly skilled
-        frontend developer 
-        specializing in React, TypeScript, Node.js, 
-        and Tailwind for styling. I build clean, scalable, and high-performance 
-        applications, transforming intricate designs into seamless, 
-        user-centric experiences. With a keen focus on efficiency and maintainability, 
-        I bridge the gap between design and functionality, ensuring smooth database 
-        integration and a flawless interface.
+        I'm a highly motivated or skilled 
+        individual, who has floated two
+         successful busineese, i love football
+         alot, love studying and i communication 
+         alot and love team work i love to collaborate alot esecially with persons of like minds  
       </p>
     </motion.div>
   );
