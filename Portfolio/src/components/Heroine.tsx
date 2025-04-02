@@ -29,7 +29,7 @@ const Heroine: React.FC = () => {
       
       className='flex max-w-[600px] flex-col items-center text-center gap-6'>
         <h1 className='bg-gradient-to-r from-blue-400 to-pink-500 bg-clip-text text-5xl font-light text-transparent opacity-80 transition-all duration-300 hover:opacity-100 hover:shadow-lg md:text-7xl'>
-          Peculiar
+          Peculiar Amaka 
         </h1>
         <h3 className='bg-gradient-to-r from-pink-400 to-blue-500 bg-clip-text text-2xl text-transparent opacity-80 transition-all duration-300 hover:opacity-100 md:text-3xl'>
           Frontend Developer
