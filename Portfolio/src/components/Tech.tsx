@@ -51,7 +51,7 @@
 
 
 import React from 'react';
-import { BiLogoJavascript, BiLogoNodejs, BiLogoReact, BiLogoTailwindCss, BiLogoTypescript } from 'react-icons/bi';
+import { BiLogoJavascript, BiLogoNodejs, BiLogoReact, BiLogoRedux, BiLogoTailwindCss, BiLogoTypescript} from 'react-icons/bi';
 import { motion, Variants } from 'framer-motion';
 
 const Tech: React.FC = () => {
@@ -93,6 +93,12 @@ const Tech: React.FC = () => {
         <motion.div>
           <span className="inline-block transform transition-all duration-[2000ms] hover:translate-y-5">
             <BiLogoNodejs className='cursor-pointer text-[80px] text-green-500 sm:text-[100px] md:text-[120px]' />
+          </span>
+        </motion.div>
+
+        <motion.div>
+          <span className="inline-block transform transition-all duration-[2000ms] hover:translate-y-5">
+            <BiLogoRedux className='cursor-pointer text-[80px] text-green-500 sm:text-[100px] md:text-[120px]' />
           </span>
         </motion.div>
       </div>
