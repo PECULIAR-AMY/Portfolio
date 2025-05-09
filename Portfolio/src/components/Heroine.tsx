@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from '../assets/WhatsApp Image 2024-11-30 at 14.57.53_8f7d976a.jpg';
+import Image from "../assets/peculiar.jpg"
 import { motion } from 'framer-motion';
 
 const Heroine: React.FC = () => {
